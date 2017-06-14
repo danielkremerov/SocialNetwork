@@ -1,0 +1,11 @@
+body{
+  background-color: #ecf0f1;
+}
+.HomepageHeader{
+  background-color: #d35400;
+  color: #fff;
+}
+.row{
+  margin-bottom: 20px;
+  border:1px  grey;
+}
